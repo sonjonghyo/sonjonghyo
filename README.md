@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![COBBY_BADGE](https://cobby-play.com/api/user/badge/sonjonghyo)
-
+<!-- ![COBBY_BADGE](https://cobby-play.com/api/user/badge/sonjonghyo) -->
+<!--
 <div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
 <!-- font-size 를 조절하면 원하는 크기로 글자를 조절할 수 있습니다.-->
   <!-- Designed and developed in-house at Oreuda (https://oreuda.kr) -->
@@ -14,7 +14,7 @@
       />
     </a>
   </div>
-  
+  -->
   <div key="3">
     <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=sonjonghyo&hide_progress=true&theme=dark width="280" height=156 alt="MUL" />
   </div>
